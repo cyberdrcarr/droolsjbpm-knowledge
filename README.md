@@ -1,5 +1,3 @@
-This is a in-sync version of: https://github.com/droolsjbpm/droolsjbpm-knowledge
-
 Developing Drools and jBPM
 ==========================
 
